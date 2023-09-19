@@ -1,2 +1,2 @@
-# RussianPoetryCorpusAnalysis
+# PoetryCorpusAnalysis
 My school PET project
